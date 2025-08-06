@@ -1,0 +1,165 @@
+{
+  "aldeas": [
+    {
+      "nombre": "Konoha",
+      "personajes": [
+        {
+          "nombre": "Naruto Uzumaki",
+          "edad": "12-13 (Parte I), 15-17 (Parte II), 32-33 (Boruto)",
+          "tipo": "Jinchuriki, Sabio, Séptimo Hokage",
+          "aldea": "Konohagakure",
+          "informacion": "Naruto es el protagonista de la serie. Es el jinchuriki del Zorro de Nueve Colas y finalmente se convierte en el Séptimo Hokage de Konoha, logrando su sueño de toda la vida. Es conocido por su personalidad optimista y su determinación inquebrantable.",
+          "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5j_3_c2n8Dk_x_DBo_T_pTr_J_r_y_w_x_w&s"
+        },
+        {
+          "nombre": "Sasuke Uchiha",
+          "edad": "12-13 (Parte I), 15-17 (Parte II), 32-33 (Boruto)",
+          "tipo": "Genin, Kage en la Sombra",
+          "aldea": "Konohagakure",
+          "informacion": "Sasuke es uno de los últimos miembros supervivientes del clan Uchiha. Su único objetivo en la vida es vengar la masacre de su clan. Es el rival de Naruto y uno de los ninjas más talentosos de Konoha.",
+          "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Y2DbY8_s5V3LwVw_g8X9XQ4b3H4E_jY6A&s"
+        },
+        {
+          "nombre": "Itachi Uchiha",
+          "edad": "17-18 (Parte I), 21 (Parte II)",
+          "tipo": "Capitán ANBU, Ninja Renegado, Criminal de Rango S",
+          "aldea": "Konohagakure",
+          "informacion": "Itachi es el hermano mayor de Sasuke y un prodigio del clan Uchiha. Masacró a su clan para evitar un golpe de estado y se unió a Akatsuki para proteger a Konoha desde las sombras. Es un personaje complejo y trágico.",
+          "imagen": "https://i.pinimg.com/736x/1a/0a/2a/1a0a2a5854368334a240f6d34e00353e.jpg"
+        },
+        {
+          "nombre": "Minato Namikaze",
+          "edad": "24 (al morir)",
+          "tipo": "Cuarto Hokage, Jōnin, Sabio, Tipo Sensor",
+          "aldea": "Konohagakure",
+          "informacion": "Minato fue el Cuarto Hokage de Konoha, conocido como el 'Rayo Amarillo de Konoha' por su increíble velocidad. Es el padre de Naruto y el creador del Rasengan. Sacrificó su vida para sellar al Zorro de Nueve Colas en su hijo.",
+          "imagen": "https://static.wikia.nocookie.net/naruto/images/1/14/Ohnoki.png/revision/latest?cb=20170722102323"
+        },
+        {
+          "nombre": "Jiraiya",
+          "edad": "54 (al morir)",
+          "tipo": "Sannin, Sabio, Jōnin",
+          "aldea": "Konohagakure",
+          "informacion": "Jiraiya es uno de los tres legendarios Sannin y el maestro de Naruto. Es conocido como el 'Sabio Sapo' y es un escritor de novelas para adultos. A pesar de su personalidad pervertida, es un ninja poderoso y un mentor cariñoso.",
+          "imagen": "https://vignette.wikia.nocookie.net/naruto/images/e/e8/Jiraiya_anime.png/revision/latest?cb=20170818130103"
+        }
+      ]
+    },
+    {
+      "nombre": "Sunagakure",
+      "personajes": [
+        {
+          "nombre": "Gaara",
+          "edad": "12 (Parte I), 15-17 (Parte II), 33 (Boruto)",
+          "tipo": "Jinchuriki, Quinto Kazekage",
+          "aldea": "Sunagakure",
+          "informacion": "Gaara es el jinchuriki del Shukaku de Una Cola y el Quinto Kazekage de Sunagakure. Inicialmente un antagonista, se convierte en un aliado cercano de Naruto y un líder sabio y compasivo.",
+          "imagen": "https://static.wikia.nocookie.net/naruto/images/e/e9/Gaara_Part_I.png/revision/latest?cb=20210125233233"
+        },
+        {
+          "nombre": "Kankuro",
+          "edad": "14-15 (Parte I), 17-20 (Parte II), 33 (Boruto)",
+          "tipo": "Jōnin, Marionetista",
+          "aldea": "Sunagakure",
+          "informacion": "Kankuro es el hermano mayor de Gaara y un talentoso marionetista. Es un ninja leal y protector que siempre está dispuesto a defender a su aldea y a su familia.",
+          "imagen": "https://static.wikia.nocookie.net/naruto/images/8/83/Gaara_Boruto.png/revision/latest?cb=20180111004823"
+        },
+        {
+          "nombre": "Temari",
+          "edad": "15-16 (Parte I), 19-20 (Parte II), 35 (Boruto)",
+          "tipo": "Jōnin",
+          "aldea": "Sunagakure",
+          "informacion": "Temari es la hermana mayor de Gaara y una experta en el uso de un abanico gigante para crear potentes técnicas de viento. Es una kunoichi fuerte e independiente que se casa con Shikamaru Nara de Konoha.",
+          "imagen": "https://static.wikia.nocookie.net/naruto/images/6/67/Gaara_Part_II.png/revision/latest?cb=20170506230338"
+        }
+      ]
+    },
+    {
+      "nombre": "Kumogakure",
+      "personajes": [
+        {
+          "nombre": "Killer Bee",
+          "edad": "36 (Shippuden)",
+          "tipo": "Jinchuriki",
+          "aldea": "Kumogakure",
+          "informacion": "Killer Bee es el jinchuriki del Buey de Ocho Colas y el hermano adoptivo menor del Raikage. Es un ninja excéntrico que habla en rimas de rap y es un maestro en el uso de siete espadas a la vez.",
+          "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Kurotsuchi_Part_II.png/220px-Kurotsuchi_Part_II.png"
+        },
+        {
+          "nombre": "A (Cuarto Raikage)",
+          "edad": "47 (Cuarta Gran Guerra Shinobi)",
+          "tipo": "Kage",
+          "aldea": "Kumogakure",
+          "informacion": "A es el Cuarto Raikage de Kumogakure y el hermano adoptivo mayor de Killer Bee. Es un líder de mal genio y decidido, conocido por su increíble fuerza física y velocidad.",
+          "imagen": "https://gamespot.com/a/uploads/original/1595/15950357/3872174-unnamed.jpg"
+        },
+        {
+          "nombre": "Yugito Nii",
+          "edad": "29 (al morir)",
+          "tipo": "Jōnin, Jinchuriki",
+          "aldea": "Kumogakure",
+          "informacion": "Yugito Nii fue la jinchuriki del Gato de Dos Colas. Era una kunoichi orgullosa y valiente que tenía un control total sobre su bestia con cola.",
+          "imagen": "https://static.wikia.nocookie.net/naruto/images/a/a7/Kurotsuchi_Boruto.png/revision/latest?cb=20170823134723"
+        }
+      ]
+    },
+    {
+      "nombre": "Kirigakure",
+      "personajes": [
+        {
+          "nombre": "Mei Terumi",
+          "edad": "31 (Shippuden)",
+          "tipo": "Quinta Mizukage",
+          "aldea": "Kirigakure",
+          "informacion": "Mei Terumi es la Quinta Mizukage de Kirigakure. Es una kunoichi poderosa que posee dos Kekkei Genkai: Liberación de Lava y Liberación de Ebullición. Es una líder amable y de mente abierta.",
+          "imagen": "https://static.wikia.nocookie.net/naruto/images/a/a7/Kurotsuchi_Boruto.png/revision/latest?cb=20170823134723"
+        },
+        {
+          "nombre": "Zabuza Momochi",
+          "edad": "26 (al morir)",
+          "tipo": "Jōnin, ANBU, Ninja Renegado",
+          "aldea": "Kirigakure",
+          "informacion": "Zabuza Momochi, también conocido como el 'Demonio de la Niebla Oculta', fue uno de los Siete Espadachines Ninja de la Niebla. Era un asesino despiadado que empuñaba la Kubikiribōchō.",
+          "imagen": "https://i.pinimg.com/736x/1a/0a/2a/1a0a2a5854368334a240f6d34e00353e.jpg"
+        },
+        {
+          "nombre": "Haku",
+          "edad": "15 (al morir)",
+          "tipo": "Ninja Mercenario",
+          "aldea": "Kirigakure",
+          "informacion": "Haku era un huérfano del clan Yuki que poseía el Kekkei Genkai de Liberación de Hielo. Era el devoto compañero de Zabuza y un ninja talentoso con un corazón amable.",
+          "imagen": "https://vignette.wikia.nocookie.net/studio-ghibli/images/c/c7/Haku.png/revision/latest?cb=20181028222220"
+        }
+      ]
+    },
+    {
+      "nombre": "Iwagakure",
+      "personajes": [
+        {
+          "nombre": "Onoki",
+          "edad": "79 (Cuarta Gran Guerra Shinobi)",
+          "tipo": "Tercer Tsuchikage",
+          "aldea": "Iwagakure",
+          "informacion": "Onoki fue el Tercer Tsuchikage de Iwagakure. A pesar de su vejez y su espalda débil, era un shinobi extremadamente poderoso que poseía el raro Kekkei Tōta de Liberación de Polvo.",
+          "imagen": "https://static.wikia.nocookie.net/naruto/images/1/14/Ohnoki.png/revision/latest?cb=20170722102323"
+        },
+        {
+          "nombre": "Deidara",
+          "edad": "19 (al morir)",
+          "tipo": "Ninja Renegado de Rango S, Miembro de Akatsuki",
+          "aldea": "Iwagakure",
+          "informacion": "Deidara era un miembro de Akatsuki que creía que el arte es una explosión. Usaba arcilla explosiva para crear sus 'obras de arte' y era un oponente formidable y astuto.",
+          "imagen": "https://i.pinimg.com/736x/1a/0a/2a/1a0a2a5854368334a240f6d34e00353e.jpg"
+        },
+        {
+          "nombre": "Kurotsuchi",
+          "edad": "18 (Shippuden), 33+ (Boruto)",
+          "tipo": "Jōnin, Cuarta Tsuchikage",
+          "aldea": "Iwagakure",
+          "informacion": "Kurotsuchi es la nieta del Tercer Tsuchikage y finalmente se convierte en la Cuarta Tsuchikage. Es una kunoichi segura y audaz que posee el Kekkei Genkai de Liberación de Lava.",
+          "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Kurotsuchi_Part_II.png/220px-Kurotsuchi_Part_II.png"
+        }
+      ]
+    }
+  ]
+}
